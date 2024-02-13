@@ -6,7 +6,7 @@ const Home = () => {
     <header className="home">
       <div className="header-container">
         <div className="header-container-inner header-open">
-          <h1>Foodhub, Where Food Lovers Unite!</h1>
+          <h1>Where Food Lovers Unite!</h1>
           <p>
             Step into the heart of Foodhub, a vibrant community where food
             enthusiasts share a common passion. Connect with fellow food lovers,

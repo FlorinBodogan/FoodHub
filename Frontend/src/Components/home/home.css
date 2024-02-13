@@ -4,10 +4,8 @@
   left: 0;
   width: 100vw;
   margin: 0 auto;
-  background-image: linear-gradient(
-      rgba(34, 34, 34, 0.8),
-      rgba(34, 34, 34, 0.8)
-    ),
+  background-image: linear-gradient(rgba(34, 34, 34, 0.8),
+      rgba(34, 34, 34, 0.8)),
     url(hero-img\(1\).jpg);
   background-size: cover;
   min-height: 100vh;
@@ -57,18 +55,13 @@
   border-radius: 40px;
   color: white;
   background: none;
-  transition: all 0.3s;
   cursor: pointer;
+  transition: all 0.3s;
 }
 
 .btn:hover,
 .btn:active {
-  background: linear-gradient(
-    to top left,
-    rgba(255, 228, 196, 0.5),
-    rgba(255, 255, 255, 0.626),
-    rgba(255, 228, 196, 0.7)
-  );
+  background: #ffe4c4b3;
 }
 
 @media (max-width: 700px) {
