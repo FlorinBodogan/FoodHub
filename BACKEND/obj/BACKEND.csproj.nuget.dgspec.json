@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\florin\\Desktop\\PROIECTE PERSONALE\\FoodHub\\BACKEND\\BACKEND.csproj": {}
+    "C:\\Users\\florin\\Desktop\\PROIECTE PERSONALE\\foodhub\\BACKEND\\BACKEND.csproj": {}
   },
   "projects": {
-    "C:\\Users\\florin\\Desktop\\PROIECTE PERSONALE\\FoodHub\\BACKEND\\BACKEND.csproj": {
+    "C:\\Users\\florin\\Desktop\\PROIECTE PERSONALE\\foodhub\\BACKEND\\BACKEND.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\florin\\Desktop\\PROIECTE PERSONALE\\FoodHub\\BACKEND\\BACKEND.csproj",
+        "projectUniqueName": "C:\\Users\\florin\\Desktop\\PROIECTE PERSONALE\\foodhub\\BACKEND\\BACKEND.csproj",
         "projectName": "BACKEND",
-        "projectPath": "C:\\Users\\florin\\Desktop\\PROIECTE PERSONALE\\FoodHub\\BACKEND\\BACKEND.csproj",
+        "projectPath": "C:\\Users\\florin\\Desktop\\PROIECTE PERSONALE\\foodhub\\BACKEND\\BACKEND.csproj",
         "packagesPath": "C:\\Users\\florin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\florin\\Desktop\\PROIECTE PERSONALE\\FoodHub\\BACKEND\\obj\\",
+        "outputPath": "C:\\Users\\florin\\Desktop\\PROIECTE PERSONALE\\foodhub\\BACKEND\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
