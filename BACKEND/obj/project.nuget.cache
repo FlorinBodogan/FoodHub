@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9fkeQMPfxpnKk7HodaaRJi1NYWvum27Abc6OxQw3q4yzhtR7CIFcuhoZaeTzc+jDem9qFoLoruzg7klSPbx26A==",
+  "dgSpecHash": "B2rBwIIE9FjnJm8J1XRew2qKbpYjUpiLn+6shyS3sVbdqz9cGVzLII1SvOPqt3HPENjd/u+0/4y2y/771qgz6w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\florin\\Desktop\\PROIECTE PERSONALE\\FoodHub\\BACKEND\\BACKEND.csproj",
+  "projectFilePath": "C:\\Users\\florin\\Desktop\\PROIECTE PERSONALE\\foodhub\\BACKEND\\BACKEND.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\florin\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\florin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

@@ -18,7 +18,7 @@
   width: 100vw;
   display: flex;
   justify-content: center;
-  align-content: start;
+  align-content: flex-start;
   align-items: center;
 }
 
@@ -51,7 +51,7 @@
   font-size: 1.6rem;
   font-weight: 500;
   padding: 1.2rem 2rem;
-  border: 3.5px solid rgba(255, 228, 196, 0.715);
+  border: 3.5px solid #ffe4c4b6;
   border-radius: 40px;
   color: white;
   background: none;

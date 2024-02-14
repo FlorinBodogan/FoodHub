@@ -40,7 +40,7 @@ builder.Services.AddDbContext<DataContext>(opt =>
 
 var app = builder.Build();
 
-app.UseCors(builder => builder.AllowAnyHeader().AllowAnyMethod().AllowCredentials().WithOrigins("https://localhost:3000"));
+app.UseCors(builder => builder.AllowAnyHeader().AllowAnyMethod().AllowCredentials().WithOrigins("http://localhost:3000"));
 
 app.UseAuthentication();
 app.UseAuthorization();

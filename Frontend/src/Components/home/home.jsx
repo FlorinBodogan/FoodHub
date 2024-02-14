@@ -1,7 +1,14 @@
 import React from "react";
 import "./home.css";
+import { useNavigate } from "react-router-dom";
 
 const Home = () => {
+  const navigate = useNavigate();
+
+  const click = () => {
+    navigate("/register");
+  }
+
   return (
     <header className="home">
       <div className="header-container">
@@ -14,7 +21,7 @@ const Home = () => {
             community, and let's celebrate the joy of cooking and sharing
             together!
           </p>
-          <button className="btn">Get Started</button>
+          <button className="btn" onClick={click}>Get Started</button>
         </div>
       </div>
     </header>
